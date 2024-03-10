@@ -1,0 +1,25 @@
+{
+    "pipeline_example": {
+        "pig_head": {
+            "versions": {
+                "40": {
+                    "frames": [],
+                    "type": "bgeo.sc"
+                }
+            }
+        }
+    },
+    "pipeline_cloud": {
+        "week_03_publisher_hda.pepe3": {
+            "versions": {
+                "1": {
+                    "frames": [
+                        1.0,
+                        6.0
+                    ],
+                    "type": ".bgeo.sc"
+                }
+            }
+        }
+    }
+}
